@@ -33,4 +33,15 @@
 	float:left;
 }
 
-#
+#navbar-container
+{
+	float:left;
+	left:40%;
+	position:relative;
+	display:block;
+}
+
+#onpage
+{
+	text-decoration:underline overline;
+}
