@@ -73,11 +73,15 @@
 	text-decoration:none;
 }
 
-#main-navbar ul
+#main-navbar ul li a:hover
 {
 	background-color:#000;
 }
 
+#sidebar-container ul li a:hover
+{
+	background-color:#000;
+}
 
 
 
